@@ -2,7 +2,7 @@
 <img width="470" height="305" alt="microsoft entra ID logo" src="https://github.com/user-attachments/assets/04f27193-4f14-4bb1-aa0f-e78deeadf5d9" />
 </p>
 <h1>Assigning Groups to Users in Our Lab Environment (Azure)</h1>
-This tutorial demonstrates how security groups are assigned to users in Microsoft Entra ID to support role-based access control and organized access management.<br />
+This lab demonstrates how security groups are assigned to users in Microsoft Entra ID to support role-based access control and organized access management.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
 <h2>Operating Systems Used </h2>
